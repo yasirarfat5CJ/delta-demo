@@ -4,5 +4,8 @@ this is a demo for Git  &amp; Github  class.
 # Teacher
 shardda khapra
 
-#Student
+# Student
 yasir arfat
+
+# college
+malla reddy engineering college
